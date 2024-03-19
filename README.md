@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vk7061iitb
+- 👋 Hi, I’m Vikash Kumar
 - 👀 I’m interested in coding and i'm a tech inthusiast
 - 🌱 I’m currently learning app development and DSA
 - 📫 you can connect me on linkedin www.linkedin.com/in/vikash-kumar-945807253 
